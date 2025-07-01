@@ -1,0 +1,67 @@
+.material-symbols-outlined {
+  font-variation-settings:
+    "FILL" 0,
+    "wght" 400,
+    "GRAD" 0,
+    "opsz" 24;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  max-width: 50rem;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.dark {
+  background: #333;
+  color: white;
+}
+
+.light {
+  background: white;
+  color: #333;
+}
+
+button {
+  color: inherit;
+  border: 0;
+  background: 0;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+#toggle {
+  font-size: 3rem;
+}
+
+.specimens ul {
+  list-style: none;
+  font-size: 3rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
+  gap: 1rem;
+}
+
+.specimen {
+  filter: grayscale(100%);
+}
+
+.specimen.glow {
+  filter: drop-shadow(0 0 0.5rem white);
+}
