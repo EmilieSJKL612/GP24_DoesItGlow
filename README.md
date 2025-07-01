@@ -54,7 +54,9 @@ light and dark themes with the click of a button!
 ##Em's LN:
 
 1. prct + guide to alternative theme change (dark-light mode switch):
+   
 https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f
+
 
 Learn how to build The Ultimate Theme Toggle™️ for your website using JavaScript, CSS custom properties, local storage and system settings. No framework required!
 
@@ -199,7 +201,9 @@ Calculating the preferred theme on page load by using the preference cascade (lo
 Switching the theme on click of the toggle button, and storing the user preference in the browser for future visits
 
 
-3. 
+2. https://docs.google.com/presentation/d/e/2PACX-1vRNyNeTpvWvNUZ8xhQJMkrqIWCp-ds-N9mY5LoY_zt1karGMbua0ww0lZcBjSqu8Sw9Wgay7Nqkpu3q/pub?start=false&loop=false&delayms=3000&slide=id.g21d2a55fb87_0_356
+
+3. https://docs.google.com/presentation/d/e/2PACX-1vSBssgm8ae2oeYt2yyoMd855OlRyOwC8GeDVBnwucNCnDkZlKsDw6gXyTGibq-xSyO5aeTx4RlJ3h1m/pub?start=false&loop=false&delayms=3000&slide=id.g21d2a55fb87_0_372 
 
 
 
